@@ -1,6 +1,8 @@
 <template>
   <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <Measonry />
   </div>
 </template>
+<script setup lang="ts">
+import Measonry from "~/measonry.vue";
+</script>
