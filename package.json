@@ -10,9 +10,8 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@yeger/vue-masonry-wall": "^5.0.18",
-    "gsap": "^3.12.7",
     "nuxt": "^3.16.2",
+    "v-slick-carousel": "^0.6.5",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   }
